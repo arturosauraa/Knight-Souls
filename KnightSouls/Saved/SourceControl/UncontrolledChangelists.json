@@ -1,0 +1,52 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/knight.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/cloth.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/Texture/knight1Color.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/Texture/clothColor.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/Texture/knight1Specular.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/Texture/knight1Normal.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/Texture/clothNormal.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/Texture/clothSpecular.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/Knight_Character.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/Knight_Character_PhysicsAsset.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/Knight_Character_Skeleton.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/Texture/weaponsColor.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/Texture/weaponsNormal.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/Texture/weaponsSpecular.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/Animations/ABP_RPG_Character.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/Animations/Movement/Running.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/Animations/Movement/Sprint.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/Animations/Movement/Unarmed_Run_Forward.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/Animations/Movement/Walking.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/Animations/Movement/Idle.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/Animations/Fall/Falling.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/Animations/Fall/Land.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/Animations/Movement/Locomotion_BS.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/Animations/Lean/Lean_Left.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/Animations/Lean/Lean_Right.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/Animations/Lean/Lean_BS1.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Blueprints/BPC_PlayerStats.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/UI/WB_HUD.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/Animations/Locomotion_BS.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/Animations/Running.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/Animations/Walking.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/Animations/Idle.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/0U/XV8SP0RTUOERREPJSEFVMI.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/Animations/Unarmed_Run_Forward.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/Animations/Sprint.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/Animations/Land.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/Animations/Fall.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/Animations/Falling.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/Animations/Lean/Lean_Leaft.uasset",
+				"C:/Users/Usuario/Desktop/GameDevelop/Unreal Engine/Projects/KnightSouls/Content/My_Stuff/Character/Animations/Slow_Run.uasset"
+			]
+		}
+	]
+}
